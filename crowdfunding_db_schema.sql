@@ -1,8 +1,8 @@
 CREATE TABLE contacts(
-	contact_id INTEGER PRIMARY KEY NOT NULL,
-	first_name VARCHAR NOT NULL,
-	last_name VARCHAR NOT NULL,
-	email VARCHAR NOT NULL
+contact_id INTEGER PRIMARY KEY NOT NULL,
+first_name VARCHAR NOT NULL,
+last_name VARCHAR NOT NULL,
+email VARCHAR NOT NULL
 );
 
 CREATE TABLE category(
